@@ -1,0 +1,9 @@
+vim.cmd("set relativenumber");
+vim.cmd("set number");
+vim.cmd("set cursorline");
+vim.cmd("set expandtab");
+vim.cmd("set shiftwidth=2");
+vim.cmd("set scrolloff=10");
+vim.cmd("set nowrap");
+vim.cmd("set hlsearch");
+vim.cmd("set incsearch");
